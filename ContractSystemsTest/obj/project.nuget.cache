@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "maZZkL6nhO38wo065vCd6Ve5Sn2ZgACqe8OQIFTVfNQgcTBrbIzTlUU7nvmafS64bHvi+XdtwqW43yQ+m/G7TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Егор\\source\\repos\\ContractSystemsTest\\ContractSystemsTest\\ContractSystemsTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
